@@ -7,7 +7,8 @@ Self-study of basic website design and development.
 - CSS3
 
 ## Objectives
-Create a basic website using HTML5 and CSS3
+- Create a basic website using HTML5 and CSS3
+- Source CSS and Google Fonts
 
 ## Instructions
 
