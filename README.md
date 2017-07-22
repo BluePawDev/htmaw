@@ -6,14 +6,8 @@ Self-study of basic website design and development.
 - HTML5
 - CSS3
 
-## Objectives
-- Create a basic website using HTML5 and CSS3
-- Source CSS and Google Fonts
-
-## Instructions
-
-
 ## Implementation
-
-
-## Stretch Goal(s)
+- Manually created a basic website with responsive design without Bootstrap using only HTML5 and CSS3
+- Basic sourching of CSS and Google Fonts
+- Created and implement multiple pages (index, about, contact) with basic navigation
+- Implemented `<a>` tags using `_blank` and `_self`
